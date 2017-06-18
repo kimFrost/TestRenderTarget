@@ -1,0 +1,9 @@
+http://www.moreporkgames.com/devblog/2016/6/26/using-canvas-to-highlight-objects-on-screen-blueprint-only
+
+
+https://forums.unrealengine.com/showthread.php?128723-Feeding-material-with-world-position-offset-data
+https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/ExpressionReference/Custom/
+
+https://forums.unrealengine.com/showthread.php?109948-Splatoon-or-Portal-2-like-paint&p=583875&viewfull=1#post583875
+http://shaderbits.com/blog/authoring-pseudo-volume-textures
+https://forums.unrealengine.com/showthread.php?138688-Absolute-world-position-gt-Draw-material-to-render-target-BP-not-working
